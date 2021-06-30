@@ -1,0 +1,12 @@
+{
+    "name": "saboor/iqbal",
+    "description": "This is a very simple LMS project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "hashids/hashids": "^4.1"
+    }
+}
